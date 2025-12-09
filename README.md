@@ -1,10 +1,37 @@
-# IQRPG Trinket Calculator
-
-![image](https://user-images.githubusercontent.com/267296/186961978-577fdc37-c458-4713-a876-9357caec286d.png)
+# IQRPG Land Calculator
 
 
-## License
+- User identifies a land level
+  - dropdown
+  - recursively calculate the total gold/resources for that land level.
+  - deliver as a component
 
-We use the [UNLICENSE](https://unlicense.org/).
+- Allow user to input the market values
+  - metal
+  - stone
+  - wood
 
-You may use this repository for commercial or non-commercial projects, though we appreciate knowing about any project forked from our repository.
+- The user should be able to identify their current land level
+- The user should be able to identify their target land level
+
+-- resourceCost = target - current
+    - gold, stone, metal, wood
+
+-- as a user i want to see the current and then total gain/improvement from this land upgrade
+
+
+[ Market Values]
+[ Land - Current ]
+[ Land - Target ]
+[ Cost ]
+[ Bonuses ]
+
+
+
+
+
+
+stretch goal
+-------------
+- i should not be able to select a target that is below my current
+- 
