@@ -1,0 +1,54 @@
+[
+  {
+    "name": "None",
+    "level": 0,
+    "gold": 0,
+    "resource": 0
+  },
+  { "name": "Camp", "level": 1, "gold": 250000, "resource": 50000 },
+  { "name": "Small Village", "level": 2, "gold": 1250000, "resource": 250000 },
+  { "name": "Village", "level": 3, "gold": 2500000, "resource": 500000 },
+  { "name": "Large Village", "level": 4, "gold": 5000000, "resource": 1000000 },
+  { "name": "Small Town", "level": 5, "gold": 10000000, "resource": 2000000 },
+  { "name": "Town", "level": 6, "gold": 20000000, "resource": 4000000 },
+  { "name": "Large Town", "level": 7, "gold": 40000000, "resource": 8000000 },
+  { "name": "Small City", "level": 8, "gold": 80000000, "resource": 16000000 },
+  { "name": "City", "level": 9, "gold": 160000000, "resource": 32000000 },
+  {
+    "name": "Large City",
+    "level": 10,
+    "gold": 320000000,
+    "resource": 64000000
+  },
+  {
+    "name": "Small Kingdom",
+    "level": 11,
+    "gold": 640000000,
+    "resource": 125000000
+  },
+  { "name": "Kingdom", "level": 12, "gold": 1250000000, "resource": 250000000 },
+  {
+    "name": "Large Kingdom",
+    "level": 13,
+    "gold": 2500000000,
+    "resource": 500000000
+  },
+  {
+    "name": "Small Empire",
+    "level": 14,
+    "gold": 5000000000,
+    "resource": 1000000000
+  },
+  {
+    "name": "Empire",
+    "level": 15,
+    "gold": 10000000000,
+    "resource": 2000000000
+  },
+  {
+    "name": "Large Empire",
+    "level": 16,
+    "gold": 20000000000,
+    "resource": 4000000000
+  }
+]
