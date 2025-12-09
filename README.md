@@ -1,23 +1,23 @@
 # IQRPG Land Calculator
 
 
-- User identifies a land level
-  - dropdown
-  - recursively calculate the total gold/resources for that land level.
-  - deliver as a component
+X- User identifies a land level
+X  - dropdown
+X  - recursively calculate the total gold/resources for that land level.
+?  - deliver as a component
 
-- Allow user to input the market values
-  - metal
-  - stone
-  - wood
+X- Allow user to input the market values
+X  - metal
+X  - stone
+X  - wood
 
-- The user should be able to identify their current land level
-- The user should be able to identify their target land level
+X - The user should be able to identify their current land level
+X- The user should be able to identify their target land level
 
--- resourceCost = target - current
+X -- resourceCost = target - current
     - gold, stone, metal, wood
 
--- as a user i want to see the current and then total gain/improvement from this land upgrade
+? -- as a user i want to see the current and then total gain/improvement from this land upgrade
 
 
 [ Market Values]
